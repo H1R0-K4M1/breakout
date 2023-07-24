@@ -7,7 +7,7 @@ Recriei o jogo breakout para mostrar como ultilizar o modolo Tkinter na criaçã
      - ramdom
           - Tkinter
 ### ScreenShot
-<img href="./img/ScreenShot.jpg">
+![Imagem do jogo](./img/ScreenShot.jpg)
 ## Download
 ```
 https://github.com/H1R0Z1N/breakout.git
