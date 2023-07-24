@@ -1,2 +1,4 @@
 # breakout
-Exemplo de crianção de games ultilizando o Canvas do modolo tkinter em python3
+Exemplo de crianção de game braekout ultilizando o Canvas do modolo tkinter em python3
+
+Recriei o jogo breakout para mostrar como ultilizar o modolo Tkinter na criação de jogos 2D
