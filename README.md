@@ -3,8 +3,10 @@
 ## Descrição
 Recriei o clássico jogo breakout para mostrar como ultilizar o modolo Tkinter na criação de jogos 2D
 ## Requisitos
-- Criei ultilizando o pydroid3 no mobile, porem o jogos esta disponivel para todas as plataformas
-- Moldolos usados no projeto
+1. Criei ultilizando o pydroid3 no mobile, porem o jogos esta disponivel para todas as plataformas.
+1. Versão Atual
+     - Python 3.9.7
+1. Moldolos usados no projeto
      - ramdom
           - Tkinter
 ### ScreenShot
