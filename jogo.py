@@ -114,10 +114,10 @@ class Jogo(object):
         Updatamos as condições do jogo
         """
         self.bola.update(self)
-
+        """
         self.number_of_sprite += 1
         if self.number_of_sprite > self.limite:
-            self.number_of_sprite = 0
+            self.number_of_sprite = 0"""
 
         #Depois de mover a bola é preciso procurar por colisões
         #self.VerificaColisão()
@@ -130,7 +130,7 @@ class Jogo(object):
         self.canvas.delete(ALL)
 
         #Desenhamos o background
-        self.canvas.create_image((CANVAS_L-30,CANVAS_A-43), image = self.spritesheet[self.number_of_sprite])
+        #self.canvas.create_image((CANVAS_L-30,CANVAS_A-43), image = self.spritesheet[self.number_of_sprite])
 
         #e o player
         self.player.desenhar(self.canvas)
